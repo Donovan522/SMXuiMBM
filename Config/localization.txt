@@ -1,0 +1,6 @@
+Key,Source,Context,Changes,English
+perkPackMuleRank1LongDesc,progression,Perk,New,Who has time to organize their stuff perfectly? Carry four more items without being encumbered.
+perkPackMuleRank2LongDesc,progression,Perk,New,You know it's in there somewhere. Carry an additional five more items without being encumbered.
+perkPackMuleRank3LongDesc,progression,Perk,New,You know exactly where everything is. Carry nine additional items without being encumbered.
+perkPackMuleRank4LongDesc,progression,Perk,New,You just passed inspection private.  Carry nine more items without being encumbered.
+perkPackMuleRank5LongDesc,progression,Perk,New,"Now you are just showing off, you are either part mule or a strongman. You can carry a full backpack without being encumbered."

@@ -1,0 +1,22 @@
+<configs>
+	<!--	// SMX // Mega Backpack Window Changes -->
+	<set xpath="/windows/window[@name='windowBackpack']/@size">592,750</set>
+
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/sprite[@name='SMXuiPanelBG']/@size">744,750</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/sprite[@name='SMXuiPanelHD']/@size">744,80</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/label[@name='windowName']/@size">744,80</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/sprite[@name='SMXsepLineHD']/@size">5,704</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/sprite[@name='SMXvpDivider']/@pos">664,-90</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/button[@name='btnStashFillStacks']/@pos">699,-140</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/button[@name='btnStashSmart']/@pos">699,-225</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/button[@name='btnStashAll']/@pos">699,-310</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/smx_stashbuttons_combobox[@name='cbxLockedSlots']/@pos">704,-400</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/button[@name='btnClearInventory']/@pos">699,-550</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='header']/button[@name='btnSort']/@pos">699,-620</set>
+
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='content']/grid[@name='inventory']/@cols">9</set>
+
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='SMXcurrency']/sprite[@name='background']/@size">536,30</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='SMXcurrency']/sprite[@name='frame']/@size">538,30</set>
+	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='SMXwindowBackpack']/panel[@name='SMXcurrency']/label[@name='currency']/@pos">339,-9</set>
+</configs>

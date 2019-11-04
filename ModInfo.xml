@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="SMXuiMBM" />
+		<Description value="SMXuiMBM is a mega bag conversion modlet for SMXui (81 slots)" />
+		<Author value="Donovan, Sirillion" />
+		<Version value="18.0.1.0" compat="A18" />
+		<Website value="" />
+	</ModInfo>
+</xml>
