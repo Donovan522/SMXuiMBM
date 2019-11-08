@@ -1,0 +1,3 @@
+<configs>
+  <set xpath="/styles/global/style_entry[@name='uiElementsBG']/@value">10,0,30</set>
+</configs>
